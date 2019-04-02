@@ -1,0 +1,13 @@
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Microsoft.AspNetCore.Blazor.Browser.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Microsoft.AspNetCore.Blazor.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Microsoft.Extensions.DependencyInjection.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Microsoft.JSInterop.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/Mono.WebAssembly.Interop.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/mscorlib.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/System.Core.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/System.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/System.Net.Http.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/WebApplication1.dll
+/Users/laurashapiro/c#/WebApplication1/obj/Debug/netstandard2.0/blazor/linker/WebApplication1.pdb
